@@ -1,5 +1,5 @@
 # PROJET IA
-### Duarte RIBEIRO MUNOS ENZO
+### Duarte RIBEIRO & Enzo MUNOS 
 
 ## Présentation
 Ce projet a été réalisé dans le cadre de l'UE d'IA pour la partie symbolique.
